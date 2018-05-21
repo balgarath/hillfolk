@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+  
+  <url>
+    <loc>http://hillfolkentertainment.com/#intro</loc>
+  </url>
+  
+  <url>
+    <loc>http://hillfolkentertainment.com/#studio</loc>
+  </url>
+  
+  <url>
+    <loc>http://hillfolkentertainment.com/#booking</loc>
+  </url>
+  
+  <url>
+    <loc>http://hillfolkentertainment.com/#contact</loc>
+  </url>
+  
+  <url>
+    <loc>http://hillfolkentertainment.com/#</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://hillfolkentertainment.com/#</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://hillfolkentertainment.com/#</loc>
+    <priority>0</priority>
+  </url>
+  
+</urlset>
