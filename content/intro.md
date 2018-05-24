@@ -5,7 +5,7 @@ draft = false
 +++
 
 Hillfolks Production evolved from Hippie Hill Productions.  We are a non-profit 
-organization inspiried by helping people of limited means get back on their feet
+organization inspiried by helping home-free people get back on their feet
 and stay off the streets away from harms way.  We are commited to encouraging the
 talents of the folks who join our community including artists, poets, photographers,
 and musicians.  We come across so many amazing and creative people and we try and

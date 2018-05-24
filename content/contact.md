@@ -4,6 +4,10 @@ weight = 40
 draft = false
 +++
 
+**Email: <hippiehilltn@gmail.com>**
+
+**Phone: 931-450-4833**
+
 <form method="post" netlify action="#">
 	<div class="field half first">
 		<label for="name">Name</label>
