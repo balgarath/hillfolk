@@ -1,7 +1,7 @@
 +++
 title = "Gallery"
 draft = false
-weight = 0
+weight = 35
 +++
 
 
