@@ -7,3 +7,4 @@ weight = 35
 
 [//]: # ( {{< load-photoswipe >}} )
 
+{{< load-photoswipe >}}
