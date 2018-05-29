@@ -4,7 +4,8 @@ weight = 10
 draft = false
 +++
 
-Hillfolks Production evolved from Hippie Hill Productions.  We are inspiried by helping home-free people get back on their feet
+Hillfolk Entertainment Productions evolved from Hippie Hill Productions.  We are 
+inspired by helping home-free people get back on their feet
 and stay off the streets away from harms way.  We are commited to encouraging the
 talents of the folks who join our community including artists, poets, photographers,
 and musicians.  We come across so many amazing and creative people and we try and
