@@ -4,6 +4,8 @@ draft = false
 weight = 20
 +++
 
+{{< figure class="image main" src="/images/pic02.jpg" >}}
+
 We have had the privelege of having so many talented musicians come play amazing
 shows on the stage.  We ask them, "Where are your CDs?  We want to help spread
 your music around."  They tell us they don't have one, they haven't been in a 
@@ -17,3 +19,6 @@ just another way to reach out to people like we've always done.
 We've got state-of-the-art equipment available, and we're willing to work with what
 people can afford.  For us its not about making money, its about spreading music 
 and love.
+
+{{< figure class="image main" src="/images/pic03.jpg" >}}
+
