@@ -27,5 +27,5 @@ For more information, fill out our
 {{< figure class="image main" src="/images/pic03.jpg" >}}
 
 
-[//]: # ( {{< gallery dir="/galleries/studio/" />}} )
+ {{< gallery dir="/galleries/studio/" />}} 
 
